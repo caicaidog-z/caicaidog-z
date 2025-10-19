@@ -47,10 +47,10 @@
   <h1 align="center">🌟 代表性项目</h1>
   <p align="center">
     <a href="https://github.com/caicaidog-z/friendsMatching-backend">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=caicaidog-z&repo=WeChat-backEnd&theme=default&show_owner=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=caicaidog-z&repo=friendsMatching-backend&theme=default&show_owner=true" />
     </a>
     <a href="https://github.com/caicaidog-z/friendsMatching-frontend">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=caicaidog-z&repo=YClub&theme=default&show_owner=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=caicaidog-z&repo=friendsMatching-frontend&theme=default&show_owner=true" />
     </a>
   </p>
 
